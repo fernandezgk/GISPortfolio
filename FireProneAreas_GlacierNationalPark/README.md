@@ -28,5 +28,5 @@ Map F: Plaint Moisture
 </p>
 Map G: Composite Map
 <p align = "center">
-<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/CompositeMap.png">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/CompositeFireProne.png">
 </p>
