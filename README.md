@@ -1,6 +1,6 @@
 # GIS Portfolio
 ## About Me
-My name is Grace Fernandez, and I am a Senior at Virginia Polytechnic Institute and State University (Virginia Tech). I am majoring in Political Science - National Security, and minoring in Geographic Information Sciences (GIS). I am from Leesburg, Virginia, and am looking for a full-time Geospatial Analyst or similar position in the Northern Virginia & Washington D.C. area. View my resume [here](Fernandez_Resume2020.pdf).
+My name is Grace Fernandez, and I am a Senior at Virginia Polytechnic Institute and State University (Virginia Tech). I am majoring in Political Science - National Security, and pursuing a minor in Geographic Information Sciences (GIS). I am from Leesburg, Virginia, and I am looking for a full-time Geospatial Analyst or similar position in the Northern Virginia & Washington D.C. area. Please feel free to view my resume [here](Fernandez_Resume2020.pdf).
 
 In a past course, I was able to determine Fire Prone Areas in Glacier National Park by analyzing several factors. In the heatmap below, you are able to see the areas that are very prone to fires. You can access the full report [here](https://github.com/fernandezgk/GISPortfolio/tree/main/FireProneAreas_GlacierNationalPark). 
 <p align = "center">
