@@ -5,16 +5,28 @@ The six factors that went into creating the composite map, Map G were: Biomass L
 Map A: High Standing Biomass
 <p align = "center">
 <img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/HighStandingBiomass.png">
- </p>
-![Map B: Forest Fuel Loads]
-(FireProneAreas_GlacierNationalPark/ForestFuelLoads.jpg)
-![Map C: Slope Degrees]
-(FireProneAreas_GlacierNationalPark/SlopeDegrees.jpg)
-![Map D: Wind Levels]
-(FireProneAreas_GlacierNationalPark/WindLevels.jpg)
-![Map E: Fire Prone Distance from Trails]
-(FireProneAreas_GlacierNationalPark/FireProneTrail.jpg)
-![Map F: Plaint Moisture]
-(FireProneAreas_GlacierNationalPark/PlantMoisture.jpg)
-![Map G: Composite Map]
-(FireProneAreas_GlacierNationalPark/CompositeFireProne.jpg)
+</p>
+Map B: Forest Fuel Loads
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/ForestFuelLoads.png">
+</p>
+ Map C: Slope Degrees
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/SlopeDegrees.png">
+</p>
+Map D: Wind Levels
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/WindLevels.png">
+</p>
+Map E: Fire Prone Distance from Trails
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/FireProneTrail.png">
+</p>
+Map F: Plaint Moisture
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/PlantMoisture.png">
+</p>
+Map G: Composite Map
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/CompositeMap.png">
+</p>
