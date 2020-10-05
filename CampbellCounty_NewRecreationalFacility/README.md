@@ -21,5 +21,6 @@ In order to determine the suitable block group for the new recreational park in 
 ## Site Suggestion
 The following map provides the location of the most suitable block group along with the second and third alternatives, the map also shows the less suitable block groups, those who did not rank in the top 20 following the weight calculations for all factors. 
 <p align = "center">
-<img width = "700" height = "500" scr = "https://github.com/fernandezgk/GISPortfolio/blob/main/CampbellCounty_NewRecreationalFacility/SuitableBlockGroups.png">
+<img width = "500" height = "300" scr = "https://github.com/fernandezgk/GISPortfolio/blob/main/CampbellCounty_NewRecreationalFacility/SuitableBlockGroups.png">
 </p> 
+The names of the top three block groups are as follows: Most Suitable – 510310204031, Second Suitable – 510310206002, and Third Suitable – 510310201012. The Most Suitable block group was the highest ranked group after standardization and after weighing the factors.  Its Weighted Slope Mean is 12.22729, Weighted Landcover 17.85176, Weighted Roads 9.381245, Weighted Linear Water 5.051507, Weighted Area Water 0.281956, Weighted Park Density 13, Weighted Building Density 12.4449, Weighted Population Density 12.51852, and Weighted Total 82.75718.
