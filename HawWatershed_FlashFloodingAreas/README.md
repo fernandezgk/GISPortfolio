@@ -1,0 +1,2 @@
+## Introduction
+In 2016, Hurricane Matthew tore through the Southern United States, including Virginia, Georgia, North and South Carolina. Specifically, Haw Watershed in North Carolina is at risk of flash flooding should another hurricane blow by. This flash flood model of Hurricane Matthew shows that the Haw Watershed is adversely affected by its urban cityscape, particular steep terrain and varied elevation, fine grained soil, and increased precipitation. All of these factors in addition to rain accumulation leads to a risk of flash flooding.
