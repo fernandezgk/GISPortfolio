@@ -23,3 +23,17 @@ Using the provided elevation data, the flow direction of the Haw Watershed was c
 
 ## Results
 As seen in Figure 3 above, the south-eastern part of the Haw Watershed has moderate to very high probability while the north-western part has no to low probability of flash floods. For the most part, the urban areas have little to no probability of flooding. The final results in Figure 3, line up to the amount of precipitation depicted in Figure 2. The areas with high elevation as shown in Figure 5, seem to reside in the north-western part of the watershed and have little to no probability of flooding, while the areas with low to flat elevation appear to be the areas of high probability. Areas with high soil retention, like depicted in Figure 6, also appear to be in the areas of high elevation, and low probability of flash floods. The high soil retention areas are comprised of more granular soil, and forests so more water can be absorbed into the earth. The flow chart (Figure 4.) below outlines the methods of how the final results were determined.
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/HawWatershed_FlashFloodingAreas/HawFlowChart.png">
+</p> 
+<p align = "center"> Figure 4.
+ 
+## Appendix
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/HawWatershed_FlashFloodingAreas/HawElevation.png">
+</p> 
+<p align = "center"> Figure 5.
+<p align = "center">
+<img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/HawWatershed_FlashFloodingAreas/HawSoilRetention.png">
+</p> 
+<p align = "center"> Figure 6.
