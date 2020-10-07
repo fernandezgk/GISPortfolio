@@ -7,7 +7,7 @@ In a past course, I was able to determine Fire Prone Areas in Glacier National P
 <img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/CompositeFireProne.png">
 </p>
 
-I was also able to analyze Campbell County, Virginia to determine the best location for a new recreational facility. For this lab, each student was able to analyze a county of their choice for this project. The data used for this project was collected from the Geospatial Data Gateway website, the  Census Data website, and The Campbell County GIS website. Through analyzing several factors described in the report, you can see the recommended site for the facility below and can access the full report [here](https://github.com/fernandezgk/GISPortfolio/tree/main/CampbellCounty_NewRecreationalFacility).
+I was also able to analyze Campbell County, Virginia to determine the best location for a new recreational facility. For this lab, each student was able to analyze a county of their choice for this project. The data used for this project was collected from the Geospatial Data Gateway website, the  Census Data website, The Multi-Resolution Land Characteristics (MRLC) website and The Campbell County GIS website. Through analyzing several factors described in the report, you can see the recommended site for the facility below and can access the full report [here](https://github.com/fernandezgk/GISPortfolio/tree/main/CampbellCounty_NewRecreationalFacility).
 <p align = "center">
 <img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/CampbellCounty_NewRecreationalFacility/SuitableBlockGroups.png">
 </p>
