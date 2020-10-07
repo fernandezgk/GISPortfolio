@@ -1,7 +1,7 @@
 ## Introduction:
 To help county officials determine a site for a new recreational facility, I created a geospatial analysis of Campbell County, Virginia. The type of park that we are creating is a recreational park that is suitable for casual walking, exercising, picnicking, and enjoying nature. Campbell County is a suitable county for a new recreational park because it has slight elevation, plenty of streams and ponds, and a lot of open land.
 ## Study Area:
-Campbell County is located in south central Virginia, and borders the Blue Ridge Mountains. The county study area comprises of thirty-seven census block groups, which is the primary unit of analysis for this project. The block group data was downloaded from the Census Data [website] (https://data.census.gov/cedsci/). The variables that determine which block group is the most suitable for a new recreational park are: 
+Campbell County is located in south central Virginia, and borders the Blue Ridge Mountains. The county study area comprises of thirty-seven census block groups, which is the primary unit of analysis for this project. The block group data was downloaded from the Census Data [website](https://data.census.gov/cedsci/). The variables that determine which block group is the most suitable for a new recreational park are: 
 
 •**Terrain/Slope** – This helps determine where land may not be developed for future use due to the steep slopes and rougher terrain. The steepness of slopes provides possible hiking and walking trails for public enjoyment. 
 
