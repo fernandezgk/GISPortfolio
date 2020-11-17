@@ -2,7 +2,7 @@
 ## About Me
 <img align = "left" img width = "250" height = "325" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/miscellaneous/LinkedInPic.JPG">
 </img>
-My name is Grace Fernandez, and I am a Senior at Virginia Polytechnic Institute and State University (Virginia Tech). I am majoring in Political Science - National Security, and pursuing a minor in Geographic Information Sciences (GIS). I am from Leesburg, Virginia, and I am looking for a full-time Geospatial Analyst or similar position upon graduation in May 2021 in the Northern Virginia & Washington D.C. area. In my free time I enjoy exploring Blacksburg, running, and learning more about GIS through the online training seminars offered by Esri. A folder of the completed training certificates can be accessed[here](https://github.com/fernandezgk/GISPortfolio/blob/main/Esri_Training/README.md).
+My name is Grace Fernandez, and I am a Senior at Virginia Polytechnic Institute and State University (Virginia Tech). I am majoring in Political Science - National Security, and pursuing a minor in Geographic Information Sciences (GIS). I am from Leesburg, Virginia, and I am looking for a full-time Geospatial Analyst or similar position upon graduation in May 2021 in the Northern Virginia & Washington D.C. area. In my free time I enjoy exploring Blacksburg, running, and learning more about GIS through completing online training seminars offered by Esri. A folder of the completed training certificates can be accessed [here](https://github.com/fernandezgk/GISPortfolio/blob/main/Esri_Training/README.md).
 
 Please feel free to view my resume [here](https://github.com/fernandezgk/GISPortfolio/blob/main/miscellaneous/Fernandez_ResumeLI.pdf).
 
