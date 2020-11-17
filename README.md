@@ -2,7 +2,7 @@
 ## About Me
 <img align = "left" img width = "250" height = "325" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/miscellaneous/LinkedInPic.JPG">
 </img>
-My name is Grace Fernandez, and I am a Senior at Virginia Polytechnic Institute and State University (Virginia Tech). I am majoring in Political Science - National Security, and pursuing a minor in Geographic Information Sciences (GIS). I am from Leesburg, Virginia, and I am looking for a full-time Geospatial Analyst or similar position upon graduation in May 2021 in the Northern Virginia & Washington D.C. area. In my free time I enjoy exploring Blacksburg, running, and learning more about GIS through the online training seminars offered by Esri. A folder of the completed training certificates can be accessed[here](https://github.com/fernandezgk/GISPortfolio/tree/main/Esri_Training).
+My name is Grace Fernandez, and I am a Senior at Virginia Polytechnic Institute and State University (Virginia Tech). I am majoring in Political Science - National Security, and pursuing a minor in Geographic Information Sciences (GIS). I am from Leesburg, Virginia, and I am looking for a full-time Geospatial Analyst or similar position upon graduation in May 2021 in the Northern Virginia & Washington D.C. area. In my free time I enjoy exploring Blacksburg, running, and learning more about GIS through the online training seminars offered by Esri. A folder of the completed training certificates can be accessed[here](https://github.com/fernandezgk/GISPortfolio/blob/main/Esri_Training/README.md).
 
 Please feel free to view my resume [here](https://github.com/fernandezgk/GISPortfolio/blob/main/miscellaneous/Fernandez_ResumeLI.pdf).
 
@@ -12,7 +12,7 @@ A project in Analysis in GIS required us to source data from the internet to dem
 
 Another assignment in Analysis in GIS required us to analyze election data in such way that it complimented Bishop's claims in his book, The Big Sort. Although the book only discusses events up until 2004, we compared data from Dave Leip, the FEC, Tony McGovern, and Timothy Renner. We then calculated the percentage of counties for the years 2008, 2012, and 2016 that fall into Bishop's definitions for "competitive" and "landside" counties. Using Matplotlib, we create, and saved a single graph indicating the trends. Finally, we used the GPKG, and constructed two maps in either ArcPro or using GeoPandas that highlighted where only the landslide counties were in 2008 and 2016. You are welcome to access my assignment submission [here](https://github.com/fernandezgk/GISPortfolio/blob/main/AnalysisGIS_Notebooks/FernandezAssignment1.pdf).
 
-  In a past course, I was able to determine Fire Prone Areas in Glacier National Park by analyzing several factors. In the heatmap below, you are able to see the areas that are very prone to fires. You can access the full report [here](https://github.com/fernandezgk/GISPortfolio/tree/main/FireProneAreas_GlacierNationalPark). 
+ In a past course, I was able to determine Fire Prone Areas in Glacier National Park by analyzing several factors. In the heatmap below, you are able to see the areas that are very prone to fires. You can access the full report [here](https://github.com/fernandezgk/GISPortfolio/tree/main/FireProneAreas_GlacierNationalPark). 
 <p align = "center">
 <img width = "500" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/FireProneAreas_GlacierNationalPark/CompositeFireProne.png">
 </p>
