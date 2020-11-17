@@ -1,10 +1,10 @@
 # GIS Portfolio
 ## About Me
-<img align = "left" img width = "250" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/LinkedInPic.JPG">
+<img align = "left" img width = "250" height = "350" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/miscellaneous/LinkedInPic.JPG">
 </img>
 My name is Grace Fernandez, and I am a Senior at Virginia Polytechnic Institute and State University (Virginia Tech). I am majoring in Political Science - National Security, and pursuing a minor in Geographic Information Sciences (GIS). I am from Leesburg, Virginia, and I am looking for a full-time Geospatial Analyst or similar position upon graduation in May 2021 in the Northern Virginia & Washington D.C. area. In my free time I enjoy exploring Blacksburg, running, and learning more about GIS.
 
-Please feel free to view my resume [here](https://github.com/fernandezgk/GISPortfolio/blob/main/Fernandez_Resume2020.pdf).
+Please feel free to view my resume [here](https://github.com/fernandezgk/GISPortfolio/blob/main/miscellaneous/Fernandez_Resume2020.pdf).
 
 This semester, I am taking a course called Analysis in GIS where I am strengthening my understanding of the theory and application of GIS. The class provides emphasis on analytical operations, database design, cartographic modeling, and raster GIS. I am learning more about spatial data handling and analysis to facilitate decision-making through the communication of geographically referenced data. 
 
