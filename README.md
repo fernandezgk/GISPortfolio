@@ -9,7 +9,7 @@ Please feel free to view my resume [here](https://github.com/fernandezgk/GISPort
 
 This semester, I am taking a course called Analysis in GIS where I am strengthening my understanding of the theory and application of GIS. The class provides emphasis on analytical operations, database design, cartographic modeling, and raster GIS. I am learning more about spatial data handling and analysis to facilitate decision-making through the communication of geographically referenced data. 
 
-A project in Analysis in GIS required us to source data from the internet to demonstrate our understanding and skills with Pandas and Geopandas in JupyterNotebooks. You can access that notebook [here](https://github.com/fernandezgk/GISPortfolio/blob/main/FernandezNotebook5.ipynb).
+A project in Analysis in GIS required us to source data from the internet to demonstrate our understanding and skills with Pandas and Geopandas in JupyterNotebooks. Some of the skills we had to demonstrate were: calculating a field; taking a CSV that includes latitude and longitude, and turning it into a GeoDataFrame; joining data with geopandas; applying a buffer in geopandas; and projecting data from one CRS to another. You can access that notebook [here](https://github.com/fernandezgk/GISPortfolio/blob/main/FernandezNotebook5.ipynb).
 
 In a past course, I was able to determine Fire Prone Areas in Glacier National Park by analyzing several factors. In the heatmap below, you are able to see the areas that are very prone to fires. You can access the full report [here](https://github.com/fernandezgk/GISPortfolio/tree/main/FireProneAreas_GlacierNationalPark). 
 <p align = "center">
