@@ -10,7 +10,7 @@ When looking at the results table below from our most previous assignment, Noteb
 </p> 
 
 <p align = "center">
-<img width = "700" height = "250" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/AnalysisGIS_Notebooks/OLS&GWR_Notebook/OLSMap.png">
+<img width = "700" height = "300" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/AnalysisGIS_Notebooks/OLS&GWR_Notebook/OLSMap.png">
 </p> 
 <p>
 The Ordinary Least Squares (OLS) map above is a linear regression model to predict the 2016 Presidential Election results by determining its relationship with the gop_2008_percent, natural log transformation of the Unemployment_#_Unemployed, and the log transformation of Some_college_Population variables. As you can see above, the Northern Mid-West are counties where Trump is more likely to win their vote. The model also depicts that the counties in the lower coastline of the United States, including: a majority of Utah, the Alabama/Mississippi area, some of Southern California, and a bit of the Northern parts of the Pacific North-West counties are all counties where Trump is least likely to win their vote. The counties represented in the yellow or neutral color are counties where the model accurately predicted the outcome of the election.
@@ -18,10 +18,10 @@ The Ordinary Least Squares (OLS) map above is a linear regression model to predi
 <p>
 In the Geographically Weighted Regression (GWR) map below, it factors in the local and regional variation for the model. This model does not include the variable Transsomecol due to it causing a Collinearity error. The map’s R2 value is 0.9745, causing the initial R2 value in ArcPro (0.849814) and from Notebook 6 (0.863) to increase more than 0.10. When compared to the OLS map above, it has slight similarities, however the colorization, or classification for the GWR map is more randomized than the OLS. The OLS map has more distinctive color patterns throughout the country as does the GWR map, but more in the Western areas, while Central and Eastern United States is almost like pixels.
 <p align = "center">
-<img width = "700" height = "250" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/AnalysisGIS_Notebooks/OLS&GWR_Notebook/GWRMap.png">
+<img width = "700" height = "300" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/AnalysisGIS_Notebooks/OLS&GWR_Notebook/GWRMap.png">
 </p> 
 
 In the GWR map below, I discovered that when running the tool in ArcPro, if I changed the Additional Options, Local Weighting Scheme from the originally set Bisquare, to Gaussian, it allows all variables to be used. The R2 value for this model is 0.9555 causing it to decrease in comparison to the other GWR model above. In regards to appearance, both maps do not differ all too much, however, there are more dark colored counties in Nevada and in Montana/Wyoming area in the model below that includes the some college population. I thought this was interesting because Gaussian is continuous, and we used it in the OLS models.
 <p align = "center">
-<img width = "700" height = "250" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/AnalysisGIS_Notebooks/OLS&GWR_Notebook/GWR2Map.png">
+<img width = "700" height = "300" src ="https://github.com/fernandezgk/GISPortfolio/blob/main/AnalysisGIS_Notebooks/OLS&GWR_Notebook/GWR2Map.png">
 </p> 
