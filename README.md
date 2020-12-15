@@ -7,7 +7,7 @@ My name is Grace Fernandez, and I am a Senior at Virginia Polytechnic Institute 
 
 In my free time I enjoy exploring Blacksburg, running, cooking & crafting, and learning more about GIS by completing online training seminars offered by Esri. A folder of my completed training certificates can be accessed [here](https://github.com/fernandezgk/GISPortfolio/tree/main/Esri_Training).
 
-This semester, I am taking a course called Analysis in GIS where I am strengthening my understanding of the theory and application of GIS. The class provides emphasis on analytical operations, database design, cartographic modeling, and raster GIS. I am learning more about spatial data handling and analysis to facilitate decision-making through the communication of geographically referenced data. 
+This past semester, I took a course called Analysis in GIS where I strengthened my understanding of the theory and application of GIS. The class provided emphasis on analytical operations, database design, cartographic modeling, and raster GIS. I learned more about spatial data handling and analysis to facilitate decision-making through the communication of geographically referenced data.
 
 A project for Analysis in GIS required us to source data from the Internet to demonstrate our understanding and skills with Pandas and Geopandas in JupyterNotebooks. Some of the skills we had to demonstrate were: calculating a field; taking a CSV that includes latitude and longitude, and turning it into a GeoDataFrame; joining data with Geopandas; applying a buffer in Geopandas; and projecting data from one CRS to another. You can access that notebook [here](https://github.com/fernandezgk/GISPortfolio/blob/main/AnalysisGIS_Notebooks/FernandezNotebook5.ipynb). 
 
